@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Associate Professor at College of Engineering, Pune (COEP) | Computer & IT
 
 profile:
   align: right
